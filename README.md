@@ -1,6 +1,6 @@
 # Stein Lundbeck Tech blog
 
-## How to use @function and @mixin in Sass
+## How to use @function and @mixin in *[Sass](https://sass-lang.com/)*
 
 ### The article describes how you can utilize both @function and @mixin when working with *[Sass](https://sass-lang.com/)*
 
