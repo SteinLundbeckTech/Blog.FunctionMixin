@@ -1,0 +1,5 @@
+$colors: ( Main: #9a2601, Light: #f2af53, Link: #a74829, Even: #f7f2e8, Odd: #ede3d0, Tech: #4cd00f );
+
+@function getColor($name) {
+    @return map-get($colors, $name);
+}

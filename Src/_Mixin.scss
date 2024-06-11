@@ -1,0 +1,5 @@
+@mixin bodyContent($width) {
+    width: 100%;
+    max-width: $width;
+    margin: auto;
+}

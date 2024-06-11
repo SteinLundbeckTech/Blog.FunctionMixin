@@ -1,0 +1,25 @@
+@import "Colors";
+@import "Mixin";
+
+body {
+    background-color: getColor(Light);    
+    color: getColor(Main);
+
+    & > div.content.small {
+        @include bodyContent(600px);
+    }
+
+    & > div.content.large {
+        @include bodyContent(1024px);
+    }
+}
+
+a {
+    color: rgba(getColor(Link), 0,7);
+    text-decoration: none;
+
+    &:hover {
+        color: getColor(Link);
+        text-decoration: underline;
+    }
+}
