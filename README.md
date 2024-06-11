@@ -1,9 +1,9 @@
-# Stein Lundbeck Tech blog - Sass reusable media resizer
+# Stein Lundbeck Tech blog
 
-## The articke show how to make an easy to use reusable media resizer that handles all device sizes using *[Sass](https://sass-lang.com/)*
+## How to use @function and @mixin in Sass
 
-### The folder *[Src](https://github.com/SteinLundbeckTech/blog.Media/tree/main/Src)* contains the main media implementation and a file that imports and uses media resize funtions
+### The article describes how you can utilize both @function and @mixin when working with *[Sass](https://sass-lang.com/)*
 
-*[Read the article](https://blog.sltech.no/Stein/Article/3)*
+*[Read the article](https://blog.sltech.no/Stein/Article/4)*
 
 &copy; 2024 Stein Lundbeck - *[Website](https://sltech.no) | [Blog](https://blog.sltech.no) | [Email](mailto:stein@sltech.no)*
